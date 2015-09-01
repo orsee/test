@@ -4,3 +4,4 @@ is
 just
 a
 testfile
+Ha! Got the little bug!
