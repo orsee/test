@@ -1,4 +1,4 @@
-v303
+v304
 Hi
 3333
 4444
@@ -13,3 +13,4 @@ figure!
 Little tiny bug, I got you!
 Feature 2
 Feature 4
+Feature 6
