@@ -23,6 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots or log output to help explain your problem.
 
+**Solution proposal**
+Did you already find a solution to the problem, or do you have an idea how the problem might be solved?
+
 **Technical details (please complete where potentially relevant):**
  - ORSEE version
  - Operating System your ORSEE is running on
