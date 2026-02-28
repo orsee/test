@@ -58,6 +58,8 @@ body:
     attributes:
       label: ORSEE version
       placeholder: e.g. 4.1.3
+    validations:
+      required: true
 
   - type: input
     id: os
@@ -70,6 +72,8 @@ body:
     attributes:
       label: PHP version
       placeholder: e.g. 8.2.15
+    validations:
+      required: true
 
   - type: input
     id: mysql_version
