@@ -1,0 +1,20 @@
+name: Other issues
+description: Anything that does not fit bug report, feature request, or question (docs, refactoring, packaging, CI, etc.)
+labels: ["other"]
+
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is this about?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / details
+      description: Add any relevant background, links, screenshots, logs, or references.
+    validations:
+      required: false
